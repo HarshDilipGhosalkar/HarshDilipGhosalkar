@@ -55,3 +55,10 @@ Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer f
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=python&theme=prussian" />
 </a>
   </p>
+  <p>
+  <hr>
+<p>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDilipGhosalkar&layout=prussian" />
+ 
+ </p>
