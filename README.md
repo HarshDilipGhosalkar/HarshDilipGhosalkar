@@ -19,15 +19,17 @@ Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer f
 <br>
 <br>
  <p align="center">
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="370" height="270" />
+
 <ul>
 <li> Currently focusing on building the base of my career. </li>
 <li> 💼 any freelance work? fell free to buzz me, <a href="mailto:ghosalkarharsh454@gmail.com">email</a></li>
 <li> 🗨Ask me about anything related to my profile, I'll be right there!🗨 </li>
 <li> ⚡Funfact : Which famous rapper knows Assembly? JZ.😂</li>
+<li> Life's rule : While( ! ( succeed=try() ) );💯</li>
 </ul>
-<a >
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="370" height="270" />
-</a>
+
+
 </p>
 <br>
 <h4>Languages and Tools:</h4>
