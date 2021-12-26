@@ -28,6 +28,6 @@ Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer f
   <hr>
 <p>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=HarshDilipGhosalkar&theme=aura&show_icons=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=HarshDilipGhosalkar&theme=gruvbox&show_icons=true" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDilipGhosalkar&theme=gruvbox" />
  </p>
