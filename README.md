@@ -1,8 +1,9 @@
+
 # Hey there! Harsh Ghosalkar here👋
 <p>
-  <hr>
+  <hr >
 <p>
-Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer from Mumbai,India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+ Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer from Mumbai,India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 <br>
 <br>
 
