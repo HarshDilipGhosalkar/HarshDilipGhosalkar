@@ -44,5 +44,11 @@ Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer f
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=HarshDilipGhosalkar&theme=gruvbox&show_icons=true" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDilipGhosalkar&theme=gruvbox" />
  </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=github-readme-stats)](https://github.com/HarshDilipGhosalkar/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=HarshDilipGhosalkar&theme=prussian" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=HarshDilipGhosalkar&theme=prussian" />
+</a>
+  </p>
