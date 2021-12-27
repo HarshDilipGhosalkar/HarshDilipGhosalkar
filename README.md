@@ -44,8 +44,9 @@
 <li><h4><samp> 💼 any freelance work? fell free to buzz me, <a href="mailto:ghosalkarharsh454@gmail.com">email</a></samp></h4></li>
 <li><h4><samp> 🗨Ask me about anything related to my profile, I'll be right there!🗨 </samp></h4></li>
 <li><h4><samp> ⚡Funfact : Which famous rapper knows Assembly? JZ.😂</samp></h4></li>
-<li><h4><samp> Life's rule : While( ! ( succeed=try() ) );💯</samp></h4></li>
- 
+<li><h4><samp> Life's 1st rule : While( ! ( succeed=try() ) );💯</samp></h4></li>
+<li><h4><samp> Life's 2nd rule : .fear{display:none;}💯</samp></h4></li> 
+ <li><h4><samp>Last but not the least : While( me.awake ){me.doCode();}💯</samp></h4></li>
 </ul>
 
 
