@@ -2,32 +2,50 @@
 # Hey there! Harsh Ghosalkar here👋
 <p>
   <hr >
-<p>
- Heyloo, i'm Harsh Ghosalkar, a passionate self-taught full stack web developer from Mumbai,India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-<br>
+</p>
+
+<h4 align="center"><samp>   Heyloo, i'm Harsh Ghosalkar, welcome to my Github! a passionate self-taught full stack web developer from Mumbai,India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. </samp></h4>
 <br>
 
 
-<a href="https://www.linkedin.com/in/harsh-ghosalkar-477809204/">
-  <img align="left" alt="Harsh | LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/harsh_ghosalkar_2303/">
-  <img align="left" alt="Harsh | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
-</a>
-<a >
-<img src="https://profile-counter.glitch.me/HarshDilipGhosalkar/count.svg" height=32 />
-</a>
+
+<h4 align="center"><samp>  I'm also a Chaos Engineering Enthusiast and a Open Source Contributor. I also like Python🐍 and I'm currrently deciphering the sturdy problems of competitive programming and DSA.🤕  </samp></h4>
 <br>
-<br>
- <p align="center">
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="370" height="270" />
 
 <ul>
-<li> Currently focusing on building the base of my career. </li>
-<li> 💼 any freelance work? fell free to buzz me, <a href="mailto:ghosalkarharsh454@gmail.com">email</a></li>
-<li> 🗨Ask me about anything related to my profile, I'll be right there!🗨 </li>
-<li> ⚡Funfact : Which famous rapper knows Assembly? JZ.😂</li>
-<li> Life's rule : While( ! ( succeed=try() ) );💯</li>
+  <h4 align="center"><samp> If you have any questions, happy to answer! just drop me a mail or connect with me👇.</samp></h4>
+
+<p align="center">  
+<a align="center" href="https://www.linkedin.com/in/harsh-ghosalkar-477809204/">
+  <img align="center" alt="Harsh | LinkedIN" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ 
+<a href="https://www.instagram.com/harsh_ghosalkar_2303/">
+  <img align="center" alt="Harsh | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a>
+<a >
+<img align="center" src="https://profile-counter.glitch.me/HarshDilipGhosalkar/count.svg" height=32 />
+</a>
+   </p>
+  <hr>
+<!--   <br>
+<p align="center" width="100%"  >
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=790b76112da028c280e20aac8b034454a6b7a3e00b388289&rid=giphy.gif&ct=g" width="370" height="270" />
+</p>
+<br> -->
+
+  
+ <p align="center">
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="370" height="270" />
+</p>
+<ul>
+  
+<li><h4><samp> Currently focusing on building the base of my career. </samp></h4></li>
+<li><h4><samp> 💼 any freelance work? fell free to buzz me, <a href="mailto:ghosalkarharsh454@gmail.com">email</a></samp></h4></li>
+<li><h4><samp> 🗨Ask me about anything related to my profile, I'll be right there!🗨 </samp></h4></li>
+<li><h4><samp> ⚡Funfact : Which famous rapper knows Assembly? JZ.😂</samp></h4></li>
+<li><h4><samp> Life's rule : While( ! ( succeed=try() ) );💯</samp></h4></li>
+ 
 </ul>
 
 
