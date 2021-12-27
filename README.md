@@ -53,7 +53,8 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=HarshDilipGhosalkar&theme=gruvbox&show_icons=true" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDilipGhosalkar&theme=gruvbox" />
  </p>
-<p align="center">
+ 
+<!-- <p align="center">
 <a href="https://github.com/HarshDilipGhosalkar/HarshDilipGhosalkar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=HarshDilipGhosalkar&theme=prussian" />
 </a>
@@ -71,3 +72,4 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDilipGhosalkar&layout=prussian" />
  
  </p>
+ -->
