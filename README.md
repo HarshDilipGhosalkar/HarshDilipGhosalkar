@@ -86,22 +86,4 @@
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDilipGhosalkar&theme=gruvbox" />
  </p>
  
- <p align="center">
-<a href="https://github.com/HarshDilipGhosalkar/HarshDilipGhosalkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=HarshDilipGhosalkar&theme=prussian" />
-</a>
-<a href="https://github.com/HarshGhosalkar/HarshGhosalkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=HarshGhosalkar&theme=prussian" />
-</a>
-  <a href="https://github.com/HarshDilipGhosalkar/Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshDilipGhosalkar&repo=python&theme=prussian" />
-</a>
-  </p>
-  <p>
-  <hr>
-<p>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDilipGhosalkar&layout=prussian" />
- 
- </p>
- 
+
