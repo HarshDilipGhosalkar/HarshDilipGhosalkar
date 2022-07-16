@@ -89,7 +89,7 @@
 <summary>Expand</summary>
 <p>
  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=HarshDilipGhosalkar&bg_color=000000&color=ee3056&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
   </a>
 </p>
 </details>
