@@ -1,11 +1,10 @@
 
-# Hey there! Harsh Ghosalkar here👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Harsh Dilip Ghosalkar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p>
   <hr >
 </p>
 
 <h4 align="center"><samp>   Heyloo, i'm Harsh Ghosalkar, welcome to my Github! a passionate self-taught full stack web developer from Mumbai,India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. </samp></h4>
-<br>
 
 
 
@@ -47,7 +46,36 @@
 </p>
 <br> -->
 
-  
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Solidity","C","C++"],
+    askMeAbout: ["web dev", "tech", "dApp"],
+    technologies: {
+        FrontEnd: ["Html","Css","Js","Bootstrap"],
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Flask"]
+        },
+        Blockchain: {
+            Ethereum based dApps: ["Truffle","Solidity","Ganache","React","Metamask"]
+        },
+        
+        databases: ["mongo", "sqlite"],
+        misc: [ "open-cv", "MediaPipe"]
+    },
+    currentFocus: "Working on a Project and acquainting new skills",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+  <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+ 
+</p>
+
  <p align="center">
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="370" height="270" />
 </p>
@@ -64,19 +92,11 @@
 
 
 </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <br>
-<h4>Languages and Tools:</h4>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/83356501/129471430-84dafc4c-081c-4c6b-b71c-10c1eec7b8e0.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/83356501/129471467-28ae9844-0ad9-40ca-a4fc-8adbc0799686.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/83356501/129472755-f48047f1-7d3f-40a2-9db8-0472bd8d4ec5.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/83356501/129473343-d1e34adb-a530-4e88-9076-e6c8ca9d5fae.png"></code>
-<code><img height="30" src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png"></code>
-<code><img height="30" src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
+
+
 
 <p>
   <hr>
